@@ -27,6 +27,6 @@ It integrates:
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/zenbot-ai-chatbot.git
+git clone https://github.com/Madhumithaudhaya/zenbot-ai-chatbot.git
 cd zenbot-ai-chatbot
 pip install -r requirements.txt
